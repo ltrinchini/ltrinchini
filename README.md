@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl307jegf012109l21by85mee/stats?cursusId=21&coalitionId=51" alt="ltrinchi's 42 stats" /></a>
+<p align="center">
+
+ <!--
 **ltrinchini/ltrinchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
