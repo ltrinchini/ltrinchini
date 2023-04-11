@@ -64,3 +64,9 @@
 <a href="mailto:ltrinchini1@icloud.com"><img src="https://user-images.githubusercontent.com/47778244/228585101-08f349fc-d57e-4872-b4e1-15f496263649.png" width="50" height="50">
 <a href="https://www.linkedin.com/in/luca-trinchini-05b04a193/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
 </p>
+	
+<h1></h1>
+	<h3>My school</h3>
+	<p align="center">
+	<a href="https://42lyon.fr/"><img src="https://user-images.githubusercontent.com/47778244/231219284-bcdf895a-4dc6-4e58-a335-4fe6c77146b9.png" 		width="50" height="50">
+	</p>
